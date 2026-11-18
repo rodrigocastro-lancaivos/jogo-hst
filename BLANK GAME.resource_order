@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_menu","order":8,"path":"objects/obj_menu/obj_menu.yy",},
+    {"name":"obj_player","order":4,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_solid","order":5,"path":"objects/obj_solid/obj_solid.yy",},
+    {"name":"rm_menu","order":6,"path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"spr_ground","order":3,"path":"sprites/spr_ground/spr_ground.yy",},
+    {"name":"spr_level1_background","order":11,"path":"sprites/spr_level1_background/spr_level1_background.yy",},
+    {"name":"spr_menu_background","order":7,"path":"sprites/spr_menu_background/spr_menu_background.yy",},
+    {"name":"spr_player_fall","order":10,"path":"sprites/spr_player_fall/spr_player_fall.yy",},
+    {"name":"spr_player_idle","order":1,"path":"sprites/spr_player_idle/spr_player_idle.yy",},
+    {"name":"spr_player_jump","order":9,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
+    {"name":"spr_player_walk","order":2,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
+  ],
+}
